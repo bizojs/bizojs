@@ -10,5 +10,5 @@ Self-taught full-stack developer from the UK 📍
 </a>
 
 <a href="http://www.github.com/bizojs">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bizojs&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=bizojs&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
